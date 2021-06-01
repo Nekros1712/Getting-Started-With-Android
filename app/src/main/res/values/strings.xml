@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game - 2in1</string>
+    <string name="game1">Game1</string>
+    <string name="random_text">Welcome! This is Random number activity</string>
+    <string name="welcome_this_is_roll_dice_activity">Welcome! This is Roll Dice Activity</string>
+    <string name="randomize">Randomize</string>
+    <string name="num">0</string>
+    <string name="dice">dice</string>
+    <string name="roll_the_dice">Roll The Dice</string>
+</resources>
